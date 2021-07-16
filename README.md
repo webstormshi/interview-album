@@ -9,7 +9,7 @@ This is a personal interview collections.
  - [简历准备](./resume/README.md)
  - [基础知识](./skills/README.md)
  - [算法与数据结构](./algorithm/README.md)
- - [面试经验](./projects/README.md)
+ - [面试经验](./interview/README.md)
  - [offer沟通](./offer/README.md)
  - [新手入职](./work/README.md)
 
