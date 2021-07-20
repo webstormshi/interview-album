@@ -9,7 +9,7 @@ This is a personal interview collections.
  - [简历准备](./resume/README.md)
  - [基础知识](./skills/README.md)
  - [算法与数据结构](./algorithm/README.md)
- - [面试经验](./projects/README.md)
+ - [面试经验](./interview/README.md)
  - [offer沟通](./offer/README.md)
  - [新手入职](./work/README.md)
 
@@ -21,6 +21,9 @@ This is a personal interview collections.
 
 #### 联系作者
 如果有其他问题需要直接联系本人，可以加微信或者QQ哈，请备注说明身份和原因哈
-```QQ: 1446631745```
-```微信二维码```
+
+```QQ: 1761775849 ```
+
+```微信二维码： sy1446631745 ```
+
 ![微信二维码](./static/qrcode.png)
